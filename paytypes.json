@@ -1,0 +1,6 @@
+{
+	"paytypes": [
+		{ "name": "Boleto", "token": "1234567890" },
+		{ "name": "PIX", "token": "1234567890" }
+	]
+}
