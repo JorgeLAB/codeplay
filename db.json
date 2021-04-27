@@ -4,8 +4,16 @@
   ]
   ,
 
-  "invoices_generate": [
+  "invoices_generate_approved": [
     { "status": "approved", "token": "1234567890" }
+  ],
+
+  "invoices_generate_refused": [
+    { "status": "refused", "token": "11111111111" }
+  ]
+  ,
+  "invoices_generate_pending": [
+    { "status": "pending", "token": "22222222222" }
   ]
   ,
   "paytypes": [
