@@ -1,4 +1,9 @@
 {
+   "invoices": [
+      {"email_user": "guilherme@gmail.com", "due_date": "2020-04-05"}
+
+  ],
+
   "invoices/generate": { "status": "approved", "token": "1234567890"}          
   ,
   
