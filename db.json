@@ -4,7 +4,7 @@
   ]
   ,
 
-  "invoices/generate": [
+  "invoices_generate": [
     { "status": "approved", "token": "1234567890" }
   ]
   ,
